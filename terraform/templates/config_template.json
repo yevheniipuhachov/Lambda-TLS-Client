@@ -1,0 +1,20 @@
+{
+    "server": {
+        "host": "${server_host}",
+        "port": "${server_port}"
+    },
+    "timeouts": {
+        "pow_timeout": "${pow_timeout}",
+        "other_timeout": "${other_timeout}"
+    },
+    "user_info": {
+        "name": "${user_name}",
+        "mail1": "${mail1}",
+        "skype": "${skype}",
+        "birthdate": "${birthdate}",
+        "country": "${country}",
+        "addrline1": "${addrline1}",
+        "mailnum": "${mailnum}",
+        "addrnum": "${addrnum}"
+    }
+}
